@@ -23,7 +23,7 @@ public class PrimeCheckTest {
   @Test
   public void testPrimes() {
 
-    // Test etmek istediğimiz bilinen asal sayılar
+    
         int[] primeNumbers = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 97, 7919};
 
         for (int i : primeNumbers) {
